@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41101210837",
+    "project_id": "snapcam-2005",
+    "storage_bucket": "snapcam-2005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41101210837:android:4cf69b879cecb5c0df5e5c",
+        "android_client_info": {
+          "package_name": "com.example.snapcam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEJmwEBgQ0IjVmRQ6uT3cDkG8i9Fcs78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
